@@ -54,3 +54,4 @@ Insights Discovered:
 6. Screenshots / Demos
 Show what the dashboard looks like
 Example: https://github.com/Sneha-Fasage/Pizza-Sales-Analysis-Dashboad/blob/main/Snapshot%20of%20the%20dashboard-1.png
+https://github.com/Sneha-Fasage/Pizza-Sales-Analysis-Dashboad/blob/main/Snapshot%20of%20the%20dashboard-2.png
