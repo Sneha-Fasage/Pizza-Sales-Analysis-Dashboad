@@ -1,12 +1,14 @@
 # Pizza-Sales-Analytics-Dashboard 
 Recommended Structure and Order
 1. Project Title / Headline
+
 An interactive business intelligence dashboard.
 Example:
 Pizza Analytics: Pizza Sales Analytics Dashboard
 An analyzing pizza sales performance, customer ordering patterns, best & worst sellers, and revenue insights. The analysis includes daily and monthly sales trends, best-selling and least-selling pizzas, and revenue by category. Achieved this by cleaning and organizing the data in Excel, then visualizing it using Power BI.
 
-2. Short Description / Purpose
+3. Short Description / Purpose
+
 1-2 Senetence explainig what the dashboard does and why it exists.
 Example:
 This project presents a dynamic Pizza Sales Dashboard built to analyze transactional sales data from January 2015 to December 2015. The dashboard provides key performance indicators (KPIs), sales trends, category and size breakdowns, and performance insights for best and worst selling pizzas. It enables business stakeholders to make data-driven decisions to improve revenue, optimize inventory, and enhance customer experience.
