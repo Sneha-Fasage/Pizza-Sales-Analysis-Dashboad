@@ -1,4 +1,4 @@
-# Pizza-Sales-Analytics-Dashboard (Jan 2015 – Dec 2015)
+# Pizza-Sales-Analytics-Dashboard 
 Recommended Structure and Order
 1. Project Title / Headline
 An interactive business intelligence dashboard.
